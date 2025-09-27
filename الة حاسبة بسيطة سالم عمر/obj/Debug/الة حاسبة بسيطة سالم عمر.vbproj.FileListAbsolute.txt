@@ -1,0 +1,12 @@
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\bin\Debug\الة حاسبة بسيطة سالم عمر.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة حاسبة بسيطة سالم عمر.vbprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة_حاسبة_بسيطة_سالم_عمر.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة_حاسبة_بسيطة_سالم_عمر.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة حاسبة بسيطة سالم عمر.vbproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة حاسبة بسيطة سالم عمر.xml
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\bin\Debug\الة حاسبة بسيطة سالم عمر.exe
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\bin\Debug\الة حاسبة بسيطة سالم عمر.pdb
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\bin\Debug\الة حاسبة بسيطة سالم عمر.xml
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة حاسبة بسيطة سالم عمر.exe
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة حاسبة بسيطة سالم عمر.pdb
+c:\users\dell\documents\visual studio 2015\Projects\الة حاسبة بسيطة سالم عمر\الة حاسبة بسيطة سالم عمر\obj\Debug\الة_حاسبة_بسيطة_سالم_عمر.Form2.resources
